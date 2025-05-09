@@ -1384,7 +1384,6 @@ ss://YWVzLTI1Ni1nY206Z0ZaZG1Td081ckw5blc4YQ@hon5.vpntype.dev:8388#🇭🇰 HK No
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeTNCdXAyVlRNN0RQMFpEZFA5ZFFJ@194.87.45.189:443#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1nY206cHdPTWJFY3ZYZWJGa1JhdA@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.225.74:443#🇯🇵 JP Tokyo
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsakw3bDBheEQ1RUVTaW5mUDNQS2R6@87.251.79.34:20684#🇺🇸 US None
 ss://YWVzLTI1Ni1nY206Q3lyOExHTXpUUmNCeW51YQ@lon5.vpntype.dev:8388#🇬🇧 GB London
 ss://YWVzLTI1Ni1nY206Yll0S2V1NGdsbW43amdreA@lon5.vpntype.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozbVpOV0NnOFZDWDhlOHduT0hrQmxU@194.87.45.189:443#🇪🇸 ES Madrid
