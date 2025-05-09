@@ -1213,7 +1213,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc@mx2.drawnrisha.one:55988#🇬🇧 GB None
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@5.188.181.201:9000#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnB0NDhIaVRmV016UURiODZpZ1M4VXhyWVhaNTl6TjNtelRURzlFdkVjdzNlcVl0WDVRM3phZW5KUHl5QTVwMnE1Tm1wMjRUcnYyYkJLVkJjWjFiaExLVDNkbjE4S2s@185.5.38.111:55988#🇬🇧 GB None
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA==@80.92.204.106:9061#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003#🇹🇷 TR Izmir
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#🇨🇭 CH Zurich
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#🇺🇸 US Ashburn
@@ -1305,7 +1304,6 @@ ss://YWVzLTI1Ni1nY206R2RjajVrRkMwZUNGb0FjZQ@tel5.vpntype.dev:8388#🇮🇱 IL Be
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6MEowWFZOVTJuUnB1T0pLVlBlS1Vl@62.133.63.21:65262#🇹🇷 TR Istanbul
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119?type=tcp#🇨🇭 CH Zurich
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlNIVHFoMTIxZ3luNjhOWThRRGgzZjVMNnNvVHRSSnlkUGtOaDUxTXRmZmZNeEd0cHhTRVRNQVhETWE4VDNDMTEyVm9uMVU2Q3NtTnlOUVpyOVE5eEdQdnJvVU5pRTc=@mx2.drawnrisha.one:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWnZ6aDlGTUpoNmFjNm1vaDh4dGtNb2dtd0VaREw1bkY5OVBTRkRrN05mZmhpa3p1SGUzQ1VVWXp1ZEdjYUxXNXZNekVDVjI5UWlIODU2Z2o2MlZuQWNnUTJvSFk1RFY=@mx2.drawnrisha.one:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQ3oxcGpWdlhCcDdQVnpRV1hGSXF2@62.60.231.81:39008#🇸🇪 SE Stockholm
@@ -1330,7 +1328,6 @@ ss://YWVzLTI1Ni1nY206RmxMalVXWHAxVUJkdGV6NA@lon5.vpntype.dev:8388#🇬🇧 GB Lo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNHBpOUhwVFR3RkkwWGRRMXNWRDNn@h110vpnde.outlinekeys.net:21712#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YTA3MjU1MzgyYzM2OWVh@100.42.182.30:16470#🇩🇪 DE Karlsruhe
 ss://YWVzLTI1Ni1nY206TjZjMmV0a0xDRjl4UEcxcg@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
-ss://cmM0LW1kNTpiY2M3MjM2YzM4NjQ5ZjA1@37.60.250.243:11044#🇩🇪 DE Düsseldorf
 ss://YWVzLTI1Ni1nY206OU8zamdHaG5wSXdnd29zWg@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MTFMNkdORmh6RzdHNmR0NFA1NzFP@77.110.102.235:64864#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWM1h5UzZpd284UEdEbm5HUEJQbG9m@77.221.149.42:4443#🇺🇸 US Los Angeles
