@@ -1273,6 +1273,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.157.154:989#🇲🇦 MA Fe
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.119.77:989#🇫🇷 FR Ivry-sur-Seine
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.75.119.38:989#🇦🇺 AU Sydney
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@45.89.52.66:9025#🇹🇷 TR Izmir
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.59.107:989#🇪🇬 EG None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@156.236.142.189:8388#🇺🇸 US None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.163.140.136:989#🇩🇪 DE Ladbergen
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#🇲🇩 MD Chisinau
@@ -1374,7 +1375,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFR0huSFg4bXhFbzB1cWczT2NES2RX@178.208.78.170
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRlVjamRYOEtaaGluUGVkeDlNd2NH@45.95.232.236:4248#🇨🇭 CH Zurich
 ss://YWVzLTI1Ni1nY206Z0ZaZG1Td081ckw5blc4YQ@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeTNCdXAyVlRNN0RQMFpEZFA5ZFFJ@194.87.45.189:443#🇪🇸 ES Madrid
-ss://YWVzLTI1Ni1nY206cHdPTWJFY3ZYZWJGa1JhdA@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.183.225.74:443#🇯🇵 JP Tokyo
 ss://YWVzLTI1Ni1nY206Q3lyOExHTXpUUmNCeW51YQ@lon5.vpntype.dev:8388#🇬🇧 GB London
 ss://YWVzLTI1Ni1nY206Yll0S2V1NGdsbW43amdreA@lon5.vpntype.dev:8388#🇬🇧 GB London
@@ -1383,7 +1383,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR3VuR3hsdmNVSkJWTW5VdHk3MWFa@194.87.216.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVhVZzIyWnU0Vmw2WUJQeVl4YXFT@78.129.140.11:443#🇬🇧 GB None
 ss://YWVzLTI1Ni1nY206eHB6cjJLc0VMYUQ1czhWRA@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOWI5MTQxOWIyYWIzMTgw@38.96.255.28:42570#🇺🇸 US Los Angeles
-ss://YWVzLTI1Ni1nY206OEFoZWU0emtYcHdhRXFUNg@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eTdnNWJ3MWxyaUpKMjBDenBISzc4@62.210.88.22:443#🇫🇷 FR Orly
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMkFIWm14N1ZTZU1QY0d5UHp2UTNSUnhzMms0QVlhalo1NUFFVFJNaG1GRHJIWHFEOE4zYm9kVE1SS0RRMUtiUDY3MldmQVlUVFR6N3RFUXVyWlJTTDlNMVM2ODlBYjU=@94.156.79.244:40934#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxTm80UlZLd2hibzJMUlRIaEVmNTV4@moz-dozd.monster:5170#🇩🇪 DE Frankfurt am Main
@@ -1391,6 +1390,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmZnRnlWU0czbkxQRnZjY0lqOHRU@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4M2Q0MmZjZTI0ZjAzMGRm@212.56.42.164:26018#🇺🇸 US St Louis
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZGZlYjgzZDg5ZmI3ZmY3@100.42.182.24:14067#🇩🇪 DE Karlsruhe
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUWmJEejNScGRYeUllaTVxcWNMc3hy@macintosh.outlinekeys.net:19609#🇳🇱 NL Meppel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcTIzQ3BxV1pHUmVGQ3ZkR0E5T1Nm@77.110.102.235:64864#🇳🇱 NL Amsterdam
 ss://YWVzLTI1Ni1nY206NWpwRGJlNUlNdnJKNGk1Sw@tel5.vpntype.dev:8388#🇮🇱 IL Beersheba
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFamxWMklBdG5PemVTekQzcDQ2M1Vu@62.133.60.60:21712#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1nY206d3A1VndxTENxUnBIdzU3Q2xzT3V3NVpadzZUQ3RNS2lUY09ZdzRweXdwREN1Mmt1Q2NLZXc3bkNtTUtTdzZ6RGtjS1p3NHBH@sg-ss.ipracevpn.com:8443#🇸🇬 SG Singapore
