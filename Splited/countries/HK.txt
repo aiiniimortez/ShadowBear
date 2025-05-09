@@ -10,7 +10,5 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@194.41.59.80:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206ZjB4SGpWd05XV0ViSVNnTg@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206Z0ZaZG1Td081ckw5blc4YQ@hon5.vpntype.dev:8388#🇭🇰 HK None
-ss://YWVzLTI1Ni1nY206cHdPTWJFY3ZYZWJGa1JhdA@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206eHB6cjJLc0VMYUQ1czhWRA@hon5.vpntype.dev:8388#🇭🇰 HK None
-ss://YWVzLTI1Ni1nY206OEFoZWU0emtYcHdhRXFUNg@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206QkpBejJXQWtrbWFEMkFyWg@hon5.vpntype.dev:8388#🇭🇰 HK None
