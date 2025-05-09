@@ -382,4 +382,3 @@ ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@52.89.141.117:443#🇺🇸 US Boardman
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZHRuUmRXM3JKdjdpOVFJRVJtODVi@h110vpnus.outlinekeys.net:9483#🇺🇸 US Atlanta
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYmVnOFhzVml2eFRnUUdXY1JuQVR3@138.124.184.70:34868#🇺🇸 US Secaucus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQ3pIckszcmpTUzBUdlJ1NnU5cGNk@87.251.79.34:20684#🇺🇸 US None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsakw3bDBheEQ1RUVTaW5mUDNQS2R6@87.251.79.34:20684#🇺🇸 US None
