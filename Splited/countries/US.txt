@@ -312,7 +312,6 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#🇺🇸 US Ashburn
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#🇺🇸 US Ashburn
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.132:8080#🇺🇸 US Washington
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.97:5601#🇺🇸 US Atlanta
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.90.195:8388#🇺🇸 US None
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.143.66.87:8009#🇺🇸 US Seattle
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@137.175.113.193:8388#🇺🇸 US None
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#🇺🇸 US Phoenix
