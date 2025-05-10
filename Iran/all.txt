@@ -121,3 +121,14 @@ ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@45.89.52.66:9000#🇹🇷 TR Izmir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQ3oxcGpWdlhCcDdQVnpRV1hGSXF2@62.60.231.81:39008#🇸🇪 SE Stockholm
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@45.89.52.66:9043#🇹🇷 TR Izmir
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.230:989#🇲🇽 MX Mexico City
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#🇮🇳 IN Bengaluru
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@45.89.52.66:9057#🇹🇷 TR Izmir
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#🇨🇴 CO Bogotá
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@5.188.181.201:9054#🇪🇸 ES Madrid
+ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ==@194.87.69.122:30112#🇷🇺 RU St Petersburg
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@80.92.204.106:9094#🇩🇪 DE Frankfurt am Main
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#🇮🇳 IN Bengaluru
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#🇭🇰 HK None
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@45.89.52.66:9029#🇹🇷 TR Izmir
