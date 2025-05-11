@@ -1411,6 +1411,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVVg2QW5Qd1M0eW1mOVJLRHdhVzIxdnl4WHV3Vm5WQ3J
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFFFYjdXSWJzMjhEWjJQZ2F1VWw1@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVTlqdXJ0SjJ6SHBUZjVDZUo1TENBekdvU2M3S0NZbXp1TThxblF6QVhVSkE4amZyZVlXUEp0TGNIQzRkSlhTU0FRM21MaEpkYlZQRTFNUm9wMzdXa2dhbnNjUm5ZdjQ=@mx2.drawnrisha.one:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUktpUktiRmRFTktHQUIxRHRrM2FzdnRpbWJRbm1EUzRxVkc4WVFlZWdnajkyVktEeGVqQnU5OFZFY1duMkRHNmFmTmFZTUJtUTM2V3J1VDlSVWdxeFdYeDVWa3dXM1g=@mx2.drawnrisha.one:55988#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#🇸🇬 SG None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk=@89.185.84.14:443?type=tcp#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaWNzUUR0cVlVTGRGZHlJMlNzMzBX@h110vpnde.outlinekeys.net:21712#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCNThTVFhMTGpxaU1UVVJQY3BRUlp5@h110vpnnl.outlinekeys.net:52571#🇳🇱 NL Amsterdam
