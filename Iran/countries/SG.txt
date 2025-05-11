@@ -4,3 +4,4 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 SG Sing
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#🇸🇬 SG Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S1BHY3pnaXNpa1JZUkZTaVJjMHZS@178.128.222.99:62648#🇸🇬 SG Singapore
