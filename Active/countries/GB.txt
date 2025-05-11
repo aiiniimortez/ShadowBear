@@ -275,3 +275,4 @@ ss://YWVzLTI1Ni1nY206NHhsbUxFYjNzeEpnaEZTeg@lon5.vpntype.dev:8388#🇬🇧 GB Lo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.57.0:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@131.145.57.0:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaXVVckRETjRlUEZ3MnkzRW5mOTJN@78.129.140.11:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTGxoeDNIZkJ0dkl0TFRm@admin.c4.havij.co:443#🇬🇧 GB London
