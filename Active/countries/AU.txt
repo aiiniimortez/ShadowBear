@@ -1,3 +1,5 @@
 ﻿ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.119.38:989#🇦🇺 AU Sydney
+ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw@51.161.164.74:8388#🇦🇺 AU None
 ss://YWVzLTI1Ni1nY206MWRYNTl6VzlRR0EwTncwYg@51.161.164.74:8388#🇦🇺 AU None
+ss://YWVzLTI1Ni1nY206MWRYNTl6VzlRR0EwTncwYg@syd5.vpntype.dev:8388#🇦🇺 AU None
 ss://YWVzLTI1Ni1nY206a3pURkpxZFQyRVdaYUo3NQ@syd5.vpntype.dev:8388#🇦🇺 AU None
