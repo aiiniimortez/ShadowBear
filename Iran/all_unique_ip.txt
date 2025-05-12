@@ -1,4 +1,4 @@
-#profile-title: base64:8J+RkSBKZWxpbmdhbSdzIENvbGxlY3RvciBTaGFkb3dzb2NrcyDwn5GR
+﻿#profile-title: base64:8J+RkSBKZWxpbmdhbSdzIENvbGxlY3RvciBTaGFkb3dzb2NrcyDwn5GR
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/Chat_Support_Configs
@@ -92,7 +92,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdXdyWVN4RnZENEpUQ0hobDhlWk0w@206.189.44.69:
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#🇻🇳 VN None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#🇺🇸 US Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI@92.38.171.215:31348#🇪🇸 ES Madrid
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU@149.28.106.134:31444#🇺🇸 US Miami
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.200.162:989#🇨🇦 CA Toronto
 ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA@uk.ir.iranigamepars.ir:443#🇬🇧 GB Romford
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#🇺🇸 US Ashburn
@@ -113,3 +112,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZUprS0VSd2EzWGJYMURDQUZqUk5C@167.71.202.112:57350#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090#🇺🇸 US Ashburn
 ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw@51.161.164.74:8388#🇦🇺 AU None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.163.190:443#🇬🇧 GB London
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.35:38388#🇻🇳 VN None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#🇦🇷 AR Buenos Aires
