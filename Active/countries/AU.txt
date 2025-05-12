@@ -2,4 +2,6 @@
 ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw@51.161.164.74:8388#🇦🇺 AU None
 ss://YWVzLTI1Ni1nY206MWRYNTl6VzlRR0EwTncwYg@51.161.164.74:8388#🇦🇺 AU None
 ss://YWVzLTI1Ni1nY206MWRYNTl6VzlRR0EwTncwYg@syd5.vpntype.dev:8388#🇦🇺 AU None
+ss://YWVzLTI1Ni1nY206czlRSUNwMWdVcU1BdjI4Qw@syd5.vpntype.dev:8388#🇦🇺 AU None
 ss://YWVzLTI1Ni1nY206a3pURkpxZFQyRVdaYUo3NQ@syd5.vpntype.dev:8388#🇦🇺 AU None
+ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw@syd5.vpntype.dev:8388#🇦🇺 AU None

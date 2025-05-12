@@ -1,8 +1,6 @@
 ﻿ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#🇯🇵 JP Tokyo
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵 JP Tokyo
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443#🇯🇵 JP Tokyo
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.27.76:989#🇯🇵 JP Tokyo
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.182.62.232:443#🇯🇵 JP Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamNrc2tkaw@13.231.219.82:51767#🇯🇵 JP Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@13.112.71.144:6666#🇯🇵 JP Tokyo
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 JP Tokyo
