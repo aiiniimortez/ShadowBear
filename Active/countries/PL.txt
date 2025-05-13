@@ -31,7 +31,6 @@ ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.18:9041#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFFFYjdXSWJzMjhEWjJQZ2F1VWw1@77.83.246.74:443#🇵🇱 PL Mazovia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN1J6UTJCS01WeXBPQ0pUZHRaeGFC@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWUZvVlkxMnpqRm15RmdFSkhYcFJH@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WmF6YzBGUmw4Y0tWSWVDQmI5bTRS@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#🇵🇱 PL Warsaw
