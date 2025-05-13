@@ -6,4 +6,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.126.239.250:989#🇷🇺 RU Mosc
 ss://YWVzLTI1Ni1nY206aVVxRjkwVnVybjZCREFrODdERzgvSWhYTGpxaGhSSGFlNWZiR0pQaENJVT0@193.227.240.37:39705#🇷🇺 RU None
 ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@ss.sps1.sbs:20#🇷🇺 RU None
 ss://YWVzLTI1Ni1nY206QzFUVmlVczJtNHJFbmNHeWxzYnE1dw@ss.sps1.sbs:20#🇷🇺 RU None
+ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@ss.sps1.sbs:20#🇷🇺 RU Moscow
 ss://YWVzLTI1Ni1nY206QzFUVmlVczJtNHJFbmNHeWxzYnE1dw@ss.sps1.sbs:20#🇷🇺 RU Moscow
