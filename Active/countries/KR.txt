@@ -9,3 +9,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#🇰
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#🇰🇷 KR Gwanak-gu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@3.35.231.68:6666#🇰🇷 KR Incheon
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p227.panda004.net:4857#🇰🇷 KR Gwanak-gu
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#🇰🇷 KR Gwanak-gu
