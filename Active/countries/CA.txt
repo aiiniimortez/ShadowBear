@@ -9,3 +9,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.
 ss://YWVzLTI1Ni1nY206YnhqSDVReVQ1SGtmSU1qWA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://YWVzLTI1Ni1nY206ejJlM1Fnbm9aTEt1UGpVRA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 CA Vancouver
+ss://YWVzLTI1Ni1nY206eHZoTHZpUnZ3Y21jNkw5dA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal

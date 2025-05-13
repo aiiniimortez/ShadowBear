@@ -8,7 +8,7 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#🇰🇷 KR Seoul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#🇰🇷 KR Seoul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@3.35.231.68:6666#🇰🇷 KR Incheon
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6MTYwMWUzYzI5YzhkYjFhODg5NDJjZjBjYWQ3MzFiZjM=@43.131.255.175:3306#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.12:4857#🇰🇷 KR Gwanak-gu
