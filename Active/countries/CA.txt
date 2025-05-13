@@ -10,3 +10,4 @@ ss://YWVzLTI1Ni1nY206ejJlM1Fnbm9aTEt1UGpVRA@tor5.vpntype.dev:8388#🇨🇦 CA Mo
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 CA Vancouver
 ss://YWVzLTI1Ni1nY206ZG1zbDlXZ21PSmJDWHd1dQ@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://YWVzLTI1Ni1nY206eHZoTHZpUnZ3Y21jNkw5dA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
+ss://YWVzLTI1Ni1nY206OHczMGFIajZmTlVkaHlrdA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
