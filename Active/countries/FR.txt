@@ -47,6 +47,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NDE1YzAzNTk1MDY3MGJk@51.195.221.43:15119#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUa0ZteUJGaEJUNWlBdGM4eFBmd1NQ@77.110.106.74:31465#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUjc1UE16MldTTzYxdjlZc3pCMkF2@77.110.106.74:31465#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRem5QRVZaQWRBTGNlSURucU9lZHdx@62.210.88.22:443#🇫🇷 FR Orly
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNDZ3Y1RGZThSMTc5OXZtTU1mUllK@62.210.88.22:443#🇫🇷 FR Orly
