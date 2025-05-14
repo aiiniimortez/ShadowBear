@@ -34,7 +34,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.119.77:989#🇫🇷 FR Ivry-
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMkRGZXJ4RkZLeFpKY29sc2FPeXRK@77.110.106.74:31465#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMR1lXeUxEeGdzTjNQYmNVdnN2bjQ5@77.110.106.74:31465#🇫🇷 FR Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTThQUmdDMnFJQXlRN2tmcWtvdnlY@77.110.106.74:31465#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRem5QRVZaQWRBTGNlSURucU9lZHdx@62.210.88.22:443#🇫🇷 FR Orly
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#🇫🇷 FR None
