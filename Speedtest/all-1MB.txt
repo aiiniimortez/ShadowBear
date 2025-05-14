@@ -1,0 +1,5 @@
+﻿#profile-title: base64:8J+RkUplbGluZ2FtJ3MgU2hhZG93QmVhciAtIFNwZWVkVGVzdCgxTUIpIPCfkZE=
+#profile-update-interval: 24
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/Chat_Support_Configs
+#profile-web-page-url: https://t.me/iammirmir23
