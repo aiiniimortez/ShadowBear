@@ -7,7 +7,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.200.162:989#🇨🇦 CA Toron
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM2NndE1Qb2xLaEc5ZGZuSmlBQjlx@141.195.112.163:60533#🇨🇦 CA Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#🇨🇦 CA None
 ss://YWVzLTI1Ni1nY206YnhqSDVReVQ1SGtmSU1qWA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
-ss://YWVzLTI1Ni1nY206ejJlM1Fnbm9aTEt1UGpVRA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 CA Vancouver
 ss://YWVzLTI1Ni1nY206ZG1zbDlXZ21PSmJDWHd1dQ@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
 ss://YWVzLTI1Ni1nY206eHZoTHZpUnZ3Y21jNkw5dA@tor5.vpntype.dev:8388#🇨🇦 CA Montreal
