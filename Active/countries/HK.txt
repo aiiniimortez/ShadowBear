@@ -8,3 +8,4 @@ ss://YWVzLTI1Ni1nY206QTBqdXZZUE82cWJ6emRHcQ@hon5.vpntype.dev:8388#🇭🇰 HK No
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206N244Q25VSTNTRFhhd0ZDZQ@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.191:8388#🇭🇰 HK None
+ss://YWVzLTI1Ni1nY206NDVhY2lYR1dYVU9KU0ZtMw@hon5.vpntype.dev:8388#🇭🇰 HK None
