@@ -1,4 +1,4 @@
-﻿#profile-title: base64:8J+RkSBKZWxpbmdhbSdzIENvbGxlY3RvciBTaGFkb3dzb2NrcyDwn5GR
+﻿#profile-title: base64:8J+RkUplbGluZ2FtJ3MgU2hhZG93QmVhciAtIEFjdGl2ZSh1bmlxdWUpIPCfkZE=
 #profile-update-interval: 24
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/Chat_Support_Configs
@@ -70,6 +70,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.214.36.155:989#🇪🇪 EE Talli
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388#🇻🇳 VN None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxQlhkWm1vV3NJcGJGdFF1Wmt0djZ3@178.208.91.118:19805#🇳🇱 NL Amsterdam
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬 SG Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCZ3I2WUJIRW5wZnQ@178.22.31.239:443#🇦🇹 AT None
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#🇺🇸 US San Jose
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#🇸🇪 SE Stockholm
@@ -129,7 +130,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcHlFcVA1d2JVb0d4NnJrMDFaOGFl@212.113.106.76:29149#🇦🇹 AT Vienna
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#🇻🇳 VN None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🇺🇸 US None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNFhSUFpSS3BYRlNva2FQYWxMN2FF@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388#🇻🇳 VN None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989#🇱🇹 LT Vilnius
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#🇸🇮 SI Ljubljana
