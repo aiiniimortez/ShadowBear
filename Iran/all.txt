@@ -309,6 +309,7 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@45.89.52.66:9003#🇹🇷 TR Izmir
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#🇳🇱 NL Rozendaal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMRXZ5Vnl4UDRzWm9YTUlIa1FuU0lN@62.60.231.81:59945#🇸🇪 SE Stockholm
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@45.89.52.66:9014#🇹🇷 TR Izmir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmanJiQnAydmdwQjVrTFJGMXI3M09y@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989#🇺🇸 US Los Angeles
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@92.63.193.252:20#🇷🇺 RU None
@@ -327,3 +328,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#🇳🇴 NO Oslo
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@45.89.52.66:9030#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@5.188.181.201:9031#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.154.136.47:5498#🇺🇸 US Washington
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#🇹🇼 TW Taipei
