@@ -63,6 +63,7 @@ ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@80.92.204.106:9024#🇩🇪 DE Frank
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#🇰🇷 KR None
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#🇵🇪 PE Santiago de Surco
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇫🇷 FR None
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@80.92.204.106:9084#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@80.92.204.106:9037#🇩🇪 DE Frankfurt am Main
@@ -110,7 +111,6 @@ ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@5.188.181.201:9005#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@45.89.52.66:9000#🇹🇷 TR Izmir
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQ3oxcGpWdlhCcDdQVnpRV1hGSXF2@62.60.231.81:39008#🇸🇪 SE Stockholm
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#🇮🇳 IN Bengaluru
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaUmtTeFZyVzdONFdGRDVDUHhueUJX@62.60.231.81:39008#🇸🇪 SE Stockholm
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@45.89.52.66:9057#🇹🇷 TR Izmir
@@ -339,3 +339,5 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#🇹🇼 TW Taipei
 ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@80.92.204.106:9006#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1nY206dWE5Nmo0NDM4dg@157.245.156.14:53144#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@80.92.204.106:9098#🇩🇪 DE Frankfurt am Main
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇫🇷 FR None
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#🇪🇸 ES Madrid
