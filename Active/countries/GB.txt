@@ -118,7 +118,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#🇬🇧 GB Abergavenny
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🇬🇧 GB Abergavenny
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 GB Abergavenny
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.97.232:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.164.101:443#🇬🇧 GB Abergavenny
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.174.189:443#🇬🇧 GB London
 ss://YWVzLTI1Ni1nY206Tks4Z1Z1ZlVqZTBUR2RqVA@lon5.vpntype.dev:8388#🇬🇧 GB London
@@ -127,3 +126,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZGh6d2dWa2ZmZUVWZzVaV2xidEdG@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@131.145.97.232:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UU1aS1pvWE1zQ2JoRThHSEFnN0xpeGk3dFZNbXczeEgyQTNiaWl2VVRnczN1bzludGJINjg1akE4cGo5OG40cEpqaTN5dzZhanpuMnF6SlVhNGRGaWoxdXBhY0N0S1c@185.5.38.111:55988#🇬🇧 GB None
 ss://YWVzLTI1Ni1nY206V2ozRHEya2dwakp5MFllMg@lon5.vpntype.dev:8388#🇬🇧 GB London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHFpeXExTDR2S3NUZWdjZ0RkYXNUVW5iQ3Y0QjY2Y3g3dVdKZkh0MjRUaTNyeTlmZ2dtOWM0Smc0aXpqRUNmV1dSbWNOZm9HQ0FSRHk5Q2FDVm11Wmk4b3ZvUERMQ0g@185.5.38.111:55988#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTjcyczNUaUtjTWFKSDM0bTdpN2JvZ00yRXNRMWRRQmZheVZhTEtiYVhQOUxXcWVQTXN0QWtkUUtKUDk0cmc3SFAxM3hmbkhCdnY2ODg2OGIxdzZYVzFBWnVueHBTNEg@185.5.38.111:55988#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR0tNeUFUY0c1RVhVOWYyRTlwbVVaZUdlQjlpR2Q2NHJWcjZLVUV3Ymdoc1NBQnFHbjZyTDZUeDlaWG9tNnFhVHZvdHF2VDhLcHJpeUNaUkx6M1Vid0pZMkVtNXFWYWU@185.5.38.111:55988#🇬🇧 GB None
+ss://YWVzLTI1Ni1nY206aXdWQ0F4RkZ5MmNwMnJjMA@lon5.vpntype.dev:8388#🇬🇧 GB London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTGoyTUUzYWFuRk1SQlpYWUZGM0VWVVdYVXltWnZLTE1BMlVrampTazRhR1RQaFJRcndqVnFhMVBlUERvRjJra1BzVHFtc1hldmd2dWhSNnFNZ3NtRGM3N3BVSnhSWW4@185.5.38.111:55988#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 GB Nottingham
