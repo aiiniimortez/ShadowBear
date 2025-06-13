@@ -12,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTgxNTExYy1iZWNiLTRiNTMtOGE4OS01N2NkM2M5N2IzMjg@45.76.180.205:31368#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM@45.76.180.205:31298#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206dWE5Nmo0NDM4dg@157.245.156.14:53144#🇸🇬 SG Singapore
-ss://YWVzLTI1Ni1nY206d3A1VndxTENxUnBIdzU3Q2xzT3V3NVpadzZUQ3RNS2lUY09ZdzRweXdwREN1Mmt1Q2NLZXc3bkNtTUtTdzZ6RGtjS1p3NHBH@sg-ss.ipracevpn.com:8443#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#🇸🇬 SG None
@@ -20,3 +19,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#🇸🇬 SG Si
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1nY206N2pHY0h0ZHZsNFY3ejVTbg@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206M3l5R1dIR1hBcEtCeGx0eQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206clpleFJqd1ZkRQ@206.189.155.93:45713#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206U0RaNFM3NTVYa0hHMEg1OQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206WDF3dUtGWDFOcA@68.183.185.206:46761#🇸🇬 SG Singapore
