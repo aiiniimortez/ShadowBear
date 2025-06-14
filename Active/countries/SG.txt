@@ -22,3 +22,4 @@ ss://YWVzLTI1Ni1nY206M3l5R1dIR1hBcEtCeGx0eQ@sin5.vpntype.dev:8388#🇸🇬 SG Si
 ss://YWVzLTI1Ni1nY206clpleFJqd1ZkRQ@206.189.155.93:45713#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206U0RaNFM3NTVYa0hHMEg1OQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206WDF3dUtGWDFOcA@68.183.185.206:46761#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206S2dpQTBKOHVHK1drREdBYlB4cHp1TW1DcTlrNzdBSjMwZkdmbXZ3ZEdTST0@128.199.231.221:55328#🇸🇬 SG Singapore
