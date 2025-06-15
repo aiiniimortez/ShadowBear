@@ -154,3 +154,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#🇳🇴 NO Oslo
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.154.136.47:5498#🇺🇸 US Washington
 ss://YWVzLTI1Ni1nY206dWE5Nmo0NDM4dg@157.245.156.14:53144#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb2pRalBSRVphSGlBa085MjY3TWt5@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.155:989#🇨🇦 CA Vancouver
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.57.251.240:989#🇦🇪 AE Dubai
