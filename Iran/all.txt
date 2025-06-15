@@ -342,3 +342,5 @@ ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@80.92.204.106:9098#🇩🇪 DE Frank
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇫🇷 FR None
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb2pRalBSRVphSGlBa085MjY3TWt5@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.155:989#🇨🇦 CA Vancouver
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.57.251.240:989#🇦🇪 AE Dubai
