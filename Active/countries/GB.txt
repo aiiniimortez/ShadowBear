@@ -122,7 +122,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@85.210.164.101:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.174.189:443#🇬🇧 GB London
 ss://YWVzLTI1Ni1nY206Tks4Z1Z1ZlVqZTBUR2RqVA@lon5.vpntype.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZGh6d2dWa2ZmZUVWZzVaV2xidEdG@78.129.140.11:443#🇬🇧 GB None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@131.145.97.232:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1UU1aS1pvWE1zQ2JoRThHSEFnN0xpeGk3dFZNbXczeEgyQTNiaWl2VVRnczN1bzludGJINjg1akE4cGo5OG40cEpqaTN5dzZhanpuMnF6SlVhNGRGaWoxdXBhY0N0S1c@185.5.38.111:55988#🇬🇧 GB None
 ss://YWVzLTI1Ni1nY206V2ozRHEya2dwakp5MFllMg@lon5.vpntype.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NHdtTW9NUGttcldoZ1NnM3FvV1RUTGR5RFhUb1F5TDY1NHBNZVFxOTF1TXBXWTJoVVp4ZzVOUlFmS2ZpVkdYdnlSbnQ5ZmQ4b1Y1UldhQ2ZDajVZdTdWRkdyaGtpeEU@185.5.38.111:55988#🇬🇧 GB None
@@ -148,6 +147,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUdnJ3VGlhRDNuWm5HeVFrd0xIZXhCN0thZTZaUTFuYVh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@fake.namasha.co:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🇬🇧 GB Nottingham
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSFhKOFhIMzFNZVkyeHBKR3V4c3VTU1czeVlUVDRhblRFVHNXTlR1UUxvOThvQWdCNnNNdkJLWEdMVWtMTGtVR3pWZXhmbXlRdzlSeVpxNTJXZnpmR3l3VXVxZjhpeXQ@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbENzQkdwc2VqSGRWQ01F@85.210.120.237:443#🇬🇧 GB Sandhurst
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🇬🇧 GB Nottingham
@@ -155,4 +155,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKYks1NkE3bGlkVnNHSEZtYXh4SnZQ@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🇬🇧 GB Maidenhead
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cmxKbDEwOEVpTHhSU094NkVUYTlZ@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcVJjbDMzTk5ndXNEcnUwcFgyOHV5@89.185.84.185:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWnVZWnNmMmR5QjVYekhPc29iWWU2@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGT01LU25GVXVCc2RsMVg3@admin.c2.havij.co:443#🇬🇧 GB Bath
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTXFHbEk2VEhzMEV3a3hLWXljZ0c0@78.129.140.11:443#🇬🇧 GB None
