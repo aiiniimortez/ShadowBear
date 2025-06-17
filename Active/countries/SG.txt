@@ -5,7 +5,6 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@107.148.37.70:8388#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.106.229.219:989#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬 SG Singapore
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬 SG None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZGYzOTNlZi1iNWZhLTRmZmQtOWFmMy03NjEwMzRiZjMzZTM@192.53.172.74:30013#🇸🇬 SG Singapore
@@ -14,7 +13,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU
 ss://YWVzLTI1Ni1nY206dWE5Nmo0NDM4dg@157.245.156.14:53144#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#🇸🇬 SG Singapore
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#🇸🇬 SG Singapore
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#🇸🇬 SG None
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1nY206M3l5R1dIR1hBcEtCeGx0eQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
@@ -23,3 +21,6 @@ ss://YWVzLTI1Ni1nY206U0RaNFM3NTVYa0hHMEg1OQ@sin5.vpntype.dev:8388#🇸🇬 SG Si
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.212.5.33:443#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206WDF3dUtGWDFOcA@68.183.185.206:46761#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206S2dpQTBKOHVHK1drREdBYlB4cHp1TW1DcTlrNzdBSjMwZkdmbXZ3ZEdTST0@128.199.231.221:55328#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206VEdMdmJ4WmJ1WGFNWUtHTA@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206bWR1a2lOUnEzZmN6Nnk5YQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
+ss://YWVzLTI1Ni1nY206bmtEV1V5bmJVY0tHT2tiVw@sin5.vpntype.dev:8388#🇸🇬 SG Singapore

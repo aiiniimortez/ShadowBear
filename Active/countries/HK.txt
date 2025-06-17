@@ -4,11 +4,9 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@194.41.59.80:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@154.197.26.237:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#🇭🇰 HK None
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.191:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206dXl0bGlPVVp5QlMxS2RQUg@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#🇭🇰 HK None
-ss://YWVzLTI1Ni1nY206NTNXbzZLUXRNSzdjRlZTdw@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206UzFCQ0gwc1FDaUlnVnA1Nw@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206amJxejYza2VidzhtQmFZUA@hon5.vpntype.dev:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206Nk5ZcmtaSXJOendMeFlWSw@hon5.vpntype.dev:8388#🇭🇰 HK None
