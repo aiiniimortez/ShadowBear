@@ -43,3 +43,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🇹🇷 TR Is
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGd0djQjRUUVpFY3pUOG5SRGRoODRm@h110vpntr.outlinekeys.net:65262#🇹🇷 TR Istanbul
 ss://YWVzLTI1Ni1nY206Q0RJMEI4Qk42REgxU0FTSQ@185.123.100.140:20024#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WExReUJKVEVKeVFLdEdkeldNbzZJ@h110vpntr.outlinekeys.net:65262#🇹🇷 TR Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#🇹🇷 TR Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#🇹🇷 TR Istanbul
