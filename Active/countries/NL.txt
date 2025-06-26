@@ -88,6 +88,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpESmlueXB4VlFkSEdieXdtZERSdWlq@147.45.114.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaVROVlRCOFJFc1hCMm41RHpMaEZi@77.246.102.112:60117/?outline1#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQ1VGUXB3ZTBpNkk3RFRyTVFRUmt3@178.208.91.118:19805#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWEFYODgxQ0lta2oxQVRCa1dGTlJm@178.208.78.170:23822#🇳🇱 NL Amsterdam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206/?outline1#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c3o5QkNQMnc0R3JHUEhxYTNaVFZs@77.238.229.244:12369/?outline1#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoc2gzc3Q5U1dCZmQwMk1saE4zd24z@h110vpnnl.outlinekeys.net:52571#🇳🇱 NL Amsterdam
 ss://YWVzLTI1Ni1nY206aUhSd08xWFUzakhNY3V1cA@ams5.vpntype.dev:8388#🇳🇱 NL Amsterdam
