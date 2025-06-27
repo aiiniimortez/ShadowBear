@@ -151,7 +151,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYUtYVmlnOUdXR2VDZVR2U3YzbnB2VTNxWUNnYmJBTXl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🇬🇧 GB Maidenhead
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cmxKbDEwOEVpTHhSU094NkVUYTlZ@78.129.140.11:443#🇬🇧 GB None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKcVJjbDMzTk5ndXNEcnUwcFgyOHV5@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWnVZWnNmMmR5QjVYekhPc29iWWU2@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGT01LU25GVXVCc2RsMVg3@admin.c2.havij.co:443#🇬🇧 GB Bath
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@channel.VPNCUSTOMIZE.VPNCUSTOMIZE.reziazaran.ir:443#🇬🇧 GB London
@@ -171,3 +170,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVnNZSjhUWDF1aWV3TlpwOHU3czdo@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaNW5uZE5DQzI4b3NiSDk0eGw5cEdi@78.129.140.11:443#🇬🇧 GB None
 ss://YWVzLTI1Ni1nY206MWFnSXlCZW0zdGVxYXZwbQ@free-gb.vpnkey.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjRkw4eFNPTVd4c2pRRmNiMHk4TVFm@78.129.140.11:443#🇬🇧 GB None
+ss://YWVzLTI1Ni1nY206Q1dsc1R0VTlFcTBRR3hZMQ@free-gb.vpnkey.dev:8388#🇬🇧 GB London

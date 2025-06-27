@@ -2,7 +2,6 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSDlRU0UycFliM2MxNTF4VnhDMlBC@185.221.196.34:57602#🇫🇮 FI Helsinki
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🇫🇮 FI Helsinki
-ss://YWVzLTI1Ni1nY206R0NQTjdONEFSODZQOEZZUg@37.143.129.127:20031#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowT1lQOGlVK3dRWDFaVU1XcExQWTF3WFk3N09uMjJaSmt5Wmk1YkZSNEx3PQ@157.180.127.73:23819#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇫🇮 FI Helsinki
