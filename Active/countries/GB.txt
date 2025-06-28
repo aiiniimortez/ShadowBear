@@ -154,6 +154,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cmxKbDEwOEVpTHhSU094NkVUYTlZ@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWnVZWnNmMmR5QjVYekhPc29iWWU2@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGT01LU25GVXVCc2RsMVg3@admin.c2.havij.co:443#🇬🇧 GB Bath
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@channel.VPNCUSTOMIZE.VPNCUSTOMIZE.reziazaran.ir:443#🇬🇧 GB London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🇬🇧 GB Maidenhead
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVzE5QWVnMVh3cWlYOUFXV3BCUUZWVXJ0WGtWcVVmeFRRdXBHY1BtWHRCdGFQMnRhNzJTWExKc1VKMnRTbTFxaGJMQkV4VVMxZTNSYVBBOEpUN0s0R0hSbnd3RmJHTm4@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbENzQkdwc2VqSGRWQ01F@admin.c3.webramz.co:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNm5RclhTMmdIenJlN3A5a3JBMXZoMUVoM2JoZGNoZTk2Z1lSc0EzSlgzMzhTaFV6QlpFNE00ZFdOVlVlOTlXVEpWZG5ncFRqUkwxUHBuMlhBcnlucFYyOTZ3aDNVNnc@185.5.38.111:55988#🇬🇧 GB None
@@ -171,3 +173,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaNW5uZE5DQzI4b3NiSDk0eGw5cEdi@78.129.140.11:
 ss://YWVzLTI1Ni1nY206MWFnSXlCZW0zdGVxYXZwbQ@free-gb.vpnkey.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjRkw4eFNPTVd4c2pRRmNiMHk4TVFm@78.129.140.11:443#🇬🇧 GB None
 ss://YWVzLTI1Ni1nY206Q1dsc1R0VTlFcTBRR3hZMQ@free-gb.vpnkey.dev:8388#🇬🇧 GB London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🇬🇧 GB London

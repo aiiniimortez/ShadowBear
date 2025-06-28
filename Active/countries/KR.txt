@@ -16,6 +16,5 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p231.panda004.net:11389#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Gwanak-gu
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.35.232:443#🇰🇷 KR None
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.235.34:443#🇰🇷 KR None
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p237.panda004.net:50345#🇰🇷 KR Gwanak-gu
