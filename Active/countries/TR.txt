@@ -12,17 +12,16 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#🇹🇷 TR Ista
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@45.89.52.66:9088#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@45.89.52.66:9029#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@45.89.52.66:9014#🇹🇷 TR Izmir
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@45.89.52.66:9061#🇹🇷 TR Izmir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🇹🇷 TR Istanbul
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@45.89.52.66:9093#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@45.89.52.66:9025#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@45.89.52.66:9060#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@45.89.52.66:9030#🇹🇷 TR Izmir
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🇹🇷 TR Izmir
-ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@45.89.52.66:9000#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ==@45.89.52.66:9065#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@45.89.52.66:9029#🇹🇷 TR Izmir
@@ -33,3 +32,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@tr.opengate.te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@62.60.233.173:2222#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphWG9uUkc2a1VFc2F0TTJRcWdGaDI4@h110vpntr.outlinekeys.net:65262#🇹🇷 TR Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSeVA3djY1Mm9heHYzNzFXdzBzN0NZ@h110vpntr.outlinekeys.net:65262#🇹🇷 TR Istanbul
