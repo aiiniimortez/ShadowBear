@@ -14,7 +14,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#🇸🇬 SG Si
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1nY206U0RaNFM3NTVYa0hHMEg1OQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.212.5.33:443#🇸🇬 SG Singapore
-ss://YWVzLTI1Ni1nY206bWR1a2lOUnEzZmN6Nnk5YQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206bmtEV1V5bmJVY0tHT2tiVw@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206Zk8xeUhRc3FjdEltZTFDSQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVTUzQVVmODV3OVp5ckNiMDVTc0tx@188.166.245.158:12677#🇸🇬 SG Singapore
