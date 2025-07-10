@@ -174,7 +174,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXVsaUpDNjVmd3BkU0U1a2h2RnRD@78.129.140.11:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwc2NXTDJxNzdsUmFQVGJSTnN6dmNG@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#🇬🇧 GB London
-ss://YWVzLTI1Ni1nY206UXplNndiclVYTVdScFhLMw@free-gb.vpnkey.dev:8388#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVGlpanJLdFpCUnZMOFVDUGw1WUVx@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RjJheHFlNW1pZllsVmw5ZkE5Y0lk@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUjIxYVhnQkE0c0ltem9uWlM2SzVt@89.185.84.185:443#🇬🇧 GB None
