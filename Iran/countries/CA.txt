@@ -1,3 +1,4 @@
 ﻿ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM2NndE1Qb2xLaEc5ZGZuSmlBQjlx@141.195.112.163:60533#🇨🇦 CA Toronto
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.200.162:989#🇨🇦 CA Toronto
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.155:989#🇨🇦 CA Vancouver
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@209.200.246.174:8139?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇨🇦 CA Toronto
