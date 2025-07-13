@@ -6,12 +6,11 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098#🇰🇷 KR Gwanak-gu
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.89:11389#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Seoul
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@13.125.235.34:443#🇰🇷 KR None
 ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@43.203.213.154:443#🇰🇷 KR Incheon
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@ko-01.cloxynode.com:35515#🇰🇷 KR Seoul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@ko-01.cloxynode.com:35515#🇰🇷 KR Seoul

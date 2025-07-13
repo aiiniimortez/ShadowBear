@@ -33,10 +33,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989#🇫🇷 FR Pari
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.108:989#🇫🇷 FR None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#🇫🇷 FR Paris
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.166:989#🇫🇷 FR None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@nl-16-06.galaxymc-ssh.ir:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@fr.vmagnum.win:57456#🇫🇷 FR Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIdjRuOWlwOGxPMnBiSTEyREZQcUNK@62.210.88.22:443#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.136:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ1NpSlVmUXVSM3U5MXJvWklGNXBn@62.210.88.22:443#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMYXNRanJMU2ZVWFc3OUFaTVpBdkw3@62.210.88.22:443#🇫🇷 FR Paris

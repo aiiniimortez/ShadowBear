@@ -163,7 +163,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.162:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@uk.vpnsparta.pro:57456#🇬🇧 GB London
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVnNZSjhUWDF1aWV3TlpwOHU3czdo@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkVLYUNoSzF6RVlWZmN0eVhlVGZ5Q1NQUkZGSGNEUTFuYWg1VEVrblJQZTdCTmRkd2lqckdEWDd4YVlSNE5STlJmQ0s5THRRTEVnYWhNZkFHQ1RxWlR4Q2R6VktHZzk@185.5.38.111:55988#🇬🇧 GB None
@@ -177,3 +176,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPUjIxYVhnQkE0c0ltem9uWlM2SzVt@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprZUlWWlgyckptSU9DMVVPbjQyMTdZ@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycnVlckVUODBXWG96UUVCUEM3WHJx@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#🇬🇧 GB Bath
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWQyUlVXTEhiUTB4Y1JDVjZvcENT@89.185.84.185:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza1.digipedia.shop:443#🇬🇧 GB London
