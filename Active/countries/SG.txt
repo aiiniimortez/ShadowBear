@@ -16,9 +16,7 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1nY206U0RaNFM3NTVYa0hHMEg1OQ@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@13.212.5.33:443#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206bmtEV1V5bmJVY0tHT2tiVw@sin5.vpntype.dev:8388#🇸🇬 SG Singapore
-ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw@54.169.5.180:443#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUzJyNTQ1OWU3dEkwNWxXM0FKRmlR@178.128.63.62:49580#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1nY206d28xSndwd0pMOEtWWWdzZHdwc2lmOE9OUHpQRHFsakNsQVhDaGk3RGlNS3ZLMDg5d3EzRGdtM0RtbG5DaXc9PQ@sg-ss.ipracevpn.com:8443#🇸🇬 SG None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@sg-01.cloxynode.com:35515#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@175.41.157.91:8316#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#🇸🇬 SG Singapore
