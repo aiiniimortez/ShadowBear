@@ -8,6 +8,8 @@ ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.18:9010#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.18:9064#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.18:9037#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.18:9011#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.18:9025#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#🇵🇱 PL Warsaw
@@ -44,5 +46,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@23.27.24.181:40030#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@pr.fastsoonlink.com:40030#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:1443?plugin=obfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUHRzVFJkQ2d3ZzFLQkQzRHRjellB@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8139?pluginobfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw

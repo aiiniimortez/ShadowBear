@@ -20,3 +20,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUzJyNTQ1OWU3dEkwNWxXM0FKRmlR@178.128.63.62:
 ss://YWVzLTI1Ni1nY206d28xSndwd0pMOEtWWWdzZHdwc2lmOE9OUHpQRHFsakNsQVhDaGk3RGlNS3ZLMDg5d3EzRGdtM0RtbG5DaXc9PQ@sg-ss.ipracevpn.com:8443#🇸🇬 SG None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@175.41.157.91:8316#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#🇸🇬 SG Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdmdmZ3l1Z2l1Z3Z1aXU@sg-2-sst.medicaldream.ir:8444#🇸🇬 SG None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtcnI1N3U2NzZp@sg-1-sst.medicaldream.ir:8444#🇸🇬 SG Singapore
