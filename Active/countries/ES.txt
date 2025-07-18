@@ -11,5 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakpoWQ@uk.opensocks.site:8388#🇪🇸 ES N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakpoWQ@83.147.18.163:1443?plugin=obfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#🇪🇸 ES None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc1ROMEJhR2U3WkM1RDd6NDhiNkJR@194.87.45.189:443#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakpoWQ@83.147.18.163:1443?pluginobfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#🇪🇸 ES None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakpoWQ@83.147.18.163:1443#🇪🇸 ES None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg@83.147.18.163:8388#🇪🇸 ES None
