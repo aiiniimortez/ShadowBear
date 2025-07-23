@@ -28,3 +28,4 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@5.188.181.201:9042#🇪🇸 ES Madri
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@5.188.181.201:9031#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@5.188.181.201:9030#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdzNselFiakhHOUlCNTMzY1Z2Unlw@194.87.45.189:443#🇪🇸 ES Madrid
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg@83.147.18.163:8388#🇪🇸 ES None
