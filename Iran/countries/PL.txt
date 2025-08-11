@@ -42,3 +42,4 @@ ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@217.30.10.18:9019#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbnRDRjFMakF0Z3hjaVZPYzd3S25T@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUHRzVFJkQ2d3ZzFLQkQzRHRjellB@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@5.187.51.212:40030#🇵🇱 PL None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8139?pluginobfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw
