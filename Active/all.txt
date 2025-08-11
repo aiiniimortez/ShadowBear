@@ -1,5 +1,4 @@
 ﻿ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#🇸🇬 SG Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQlhvMnpxWVdDSERMaFRrUXh4RlhVcG5wRmFZaVV1TlViQkdXUVd6NGNCYTVoR2t2TGtjZGo5MXRDakJuc0RMR2RFUUR1VGNDTlZ0N015VnlxTXZja2hldVQyU2FnaW8@185.5.38.111:55988#🇬🇧 GB None
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#🇻🇳 VN None
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#🇺🇸 US San Jose
@@ -103,7 +102,6 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#🇧🇷 BR Sao Paulo
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#🇮🇸 IS Hafnarfjordur
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVTlqdXJ0SjJ6SHBUZjVDZUo1TENBekdvU2M3S0NZbXp1TThxblF6QVhVSkE4amZyZVlXUEp0TGNIQzRkSlhTU0FRM21MaEpkYlZQRTFNUm9wMzdXa2dhbnNjUm5ZdjQ@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080?typetcp#🇱🇹 LT None
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@45.89.52.66:9019#🇹🇷 TR Izmir
@@ -298,7 +296,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.23:38388#🇻🇳 VN None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 TW Taipei
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZjFvWWJNUlBRYXpQakRrR1JqQWE4ckw1R0hxODVha212Zk1KdEVDWE1DOWMyUVBSc3d1b2FMZTNnZmplQWM1NTlEVzFkQ0JacUdLeDVVNmdjOFYyZVE1a0J0RWZMeUE@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.138:8080#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#🇳🇱 NL None
@@ -375,7 +372,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTHBETXdvTFppOUR2a3I3UTZQQ2Zrd0NLSnQyM01raEQxTEhEam5LVmpTMVI5WjRkRDl2WTVGZmZ1WUN0RFZjU3pISkxkaWNaYm00RGg2cDhOc2Q1ZDg4Z3pBV1lyUVk@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTcWdtVXpkN1p4R3lQTGpYQlhyendUVTRqa3o3RXZiWTJYY0JnY3A3N0xoS1RYWXZVYU5SWk5aaTlaMUVlOUpCell5NWRuSzFMWk5ZdnRkVUplOTdTREhVTHo5Mzl4dWE@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM@45.76.180.205:31298#🇸🇬 SG Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbXhISjZSVmptd0tudVZvNTEzV3Q0TG13aDNpOGNkVExYbXFGMzVObkJHTDFLbzZBWUY3ZHZOQVpOV0NjQmlmYnRMSkhReE5WY2MzUHdndExieEtQTHJNaGtEUlRGYWI@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#🇨🇦 CA None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🇬🇧 GB London
@@ -568,8 +564,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl10.saint.y
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNm5RclhTMmdIenJlN3A5a3JBMXZoMUVoM2JoZGNoZTk2Z1lSc0EzSlgzMzhTaFV6QlpFNE00ZFdOVlVlOTlXVEpWZG5ncFRqUkwxUHBuMlhBcnlucFYyOTZ3aDNVNnc@185.5.38.111:55988#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@FreakConfig.usecharge.ir:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWlpCQm9FVWd6VGU5YlUyVXhOcUI4@45.144.54.33:34803#🇩🇪 DE Frankfurt am Main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#🇹🇷 TR Istanbul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiVDd5cDRNNlpSYVlRVjdmd0l0bk82@45.144.54.33:34803#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#🇱🇻 LV Riga
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#🇬🇧 GB London
@@ -583,7 +577,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@fr.vmagnum.win:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#🇰🇿 KZ Almaty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@kz.vmagnum.win:57456#🇰🇿 KZ Almaty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYaVROVlRCOFJFc1hCMm41RHpMaEZi@77.246.102.112:60117#🇳🇱 NL Amsterdam
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@213.159.214.91:20#🇷🇺 RU None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206/?outline1#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@pl.vpnsparta.pro:57456#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@pl.vmagnum.win:57456#🇵🇱 PL Warsaw
@@ -593,7 +586,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.136:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#🇳🇱 NL Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZekIyckwwTEhIeXNhdGU3VkxzODhs@45.150.32.13:14628#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 IN Mumbai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#🇮🇳 IN Mumbai
@@ -643,6 +635,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeWd1YUl0ekJmTjlZanY0MldnSVdi@45.144.54.33:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#🇨🇿 CZ None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUFJpMTF6b2lsM3hEU1lJTkhtbHh0@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@209.200.246.174:1443?pluginobfs-local;obfs=tls;obfs-host=m.youtube.com;obfs-uri=/#🇨🇦 CA Toronto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMnlIbGNKSjVmOHRBNjlwUXd2Tkhh@194.87.45.189:443#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@54.238.207.188:8313#🇯🇵 JP Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#🇦🇪 AE None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8139?pluginobfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw
@@ -653,7 +646,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:
 ss://YWVzLTI1Ni1nY206aUhhcEdZOFhvVw@154.44.15.133:44642#🇺🇸 US Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5a1ZjYVduYmJFZHFuOWk3RXVOUkY3@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1nY206ODI4ODhiYjk4NjE1NDM1Yg@212.192.15.124:40109?typetcp#🇭🇰 HK Hong Kong
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.76:15098#🇰🇷 KR Gwanak-gu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I@78.153.131.96:443#🇱🇹 LT Vilnius
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#🇦🇪 AE None
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0@51.91.210.89:8080#🇫🇷 FR None
@@ -671,7 +663,6 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.154:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZGp0dWpyeXVreXRrdHVpeXVrdWk@tr-1-sst.medicaldream.ir:8444#🇹🇷 TR Istanbul
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#🇦🇹 AT Vienna
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#🇵🇹 PT None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@peweza1.digipedia.shop:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🇵🇹 PT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🇻🇳 VN None
@@ -701,6 +692,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNzcxTFFFZW14Q3NNSDdNUWZxZG15@154.205.147.68:8443#🇴🇲 OM Muscat
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@peweza2.digipedia.shop:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSHlMN082RWlabnlnWm1KcGVrWHJ2@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#🇦🇪 AE None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#🇯🇵 JP Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@nl-20-07.galaxymc-ssh.ir:8080#🇱🇹 LT None
@@ -721,6 +713,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNURTRmE5RHlZaGxNYnlxakE0SUFF@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮 FI Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUnRmVjZydUJwRFJ4QVV5aWpmdHZE@77.105.166.12:8594#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHB4R3F4aUVUOWNxRUd5OTlVWVlF@77.105.166.12:8594#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTXNoMHN0c1dCUHlhWmNFVVpiTkdK@77.105.166.12:8594#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#🇫🇮 FI Helsinki
@@ -728,6 +721,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.162.146.85:8313#🇭🇰 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.139.0.110:8313#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🇺🇸 US Santa Clara
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.139.0.110:8319#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng@62.60.233.21:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.162.146.85:8319#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@main.opengate.wiki:2222#🇫🇮 FI Helsinki
@@ -740,6 +734,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443#🇬🇧 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#🇷🇺 RU Moscow
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#🇨🇿 CZ None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3OURGOVJUbmFyQ1EwY3JJNXJ5a0VV@83.147.216.70:64519#🇫🇮 FI Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.139.0.110:8316#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@universal.opengate.wiki:2222#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@109.172.54.231:2222#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NkR2d09PRDNDQ2VlTWlRRmJzY2du@89.110.85.176:16432#🇳🇱 NL Amsterdam
@@ -749,3 +744,4 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.130.58.99:443#🇬🇧 GB City of London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb3pHdnJyY085SmRvdFh6RnVXWUZy@62.210.88.22:443#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6dG40UHcyWFF1eS9xS0d2SGZ2Vjlzd2U2NFJtZ0UzUXlhbVRxZmY5ZGhBPQ@165.22.49.146:57905#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVkZ4djdDUlEzUXdFVGNQRE1NWFFO@104.192.227.162:443#🇺🇸 US Chicago
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTzcxc0xCYjdweGxHR0tLY0xpOXdC@78.129.140.11:443#🇬🇧 GB None
