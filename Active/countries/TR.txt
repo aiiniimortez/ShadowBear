@@ -1,7 +1,6 @@
 ﻿ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@45.89.52.66:9050#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@45.89.52.66:9057#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@45.89.52.66:9027#🇹🇷 TR Izmir
-ss://YWVzLTI1Ni1jZmI6UGVIU0htNVNxRWpCdUVYRQ@45.89.52.66:9065#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@45.89.52.66:9020#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@45.89.52.66:9019#🇹🇷 TR Izmir
@@ -16,3 +15,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🇹🇷 TR Is
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZGp0dWpyeXVreXRrdHVpeXVrdWk@tr-1-sst.medicaldream.ir:8444#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZFZMYWNjR0JxRng@62.60.233.21:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk@83.217.9.210:443#🇹🇷 TR Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@103.215.218.73:808#🇹🇷 TR Istanbul

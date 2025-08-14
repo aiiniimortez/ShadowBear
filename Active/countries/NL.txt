@@ -61,7 +61,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#🇳🇱 NL Haarlem
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMmh2NlN1b3JyUjVxUHVWMmlCWU51aHd5TmEzTHU2azl5bzIxdlhVbmFVdWtiNUp4TG9rU2lkeHlGQVo3ZG5GcjEycHo4YlNqc2Jac0ZWUG0xOVBxa2tIZHpjRmRCUG0@www2.broadalx.cfd:40934#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzFWWVk5ZzJhUkptb0NZOHJaZE1IY1BMTFRmQXFXTEpxMUpmYkZTNVR6QXU1aktIUndObTE3ZjkzUllzd1NEeGM3QnhCdWhZS3h6ZHNCNU1HWGkyUE5GbVE3TTdtUUw@94.156.79.244:40934#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱 NL None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFaVdaNlhwZFU1OFBCYktGQjZydExq@147.45.114.160:45651#🇳🇱 NL Dronten
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#🇳🇱 NL Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYjloeEZaeFVING0@194.87.216.189:443#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NkR2d09PRDNDQ2VlTWlRRmJzY2du@89.110.85.176:16432#🇳🇱 NL Amsterdam
