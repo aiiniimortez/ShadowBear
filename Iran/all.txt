@@ -174,12 +174,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4eFoxNUJUempvRmllYkcz@admin.c2.havij.co:443#
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.4.72:989#🇰🇭 KH Phnom Penh
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#🇵🇱 PL Warsaw
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08@185.246.153.12:31348#🇳🇱 NL Amsterdam
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.43:7002#🇺🇸 US Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@137.175.113.193:8388#🇺🇸 US None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkhzMGZjdTNUdHBDOUw5S21RTU1J@185.139.230.55:5170#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.253.227:989#🇪🇨 EC Quito
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#🇺🇸 US Washington
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.18:9037#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#🇺🇸 US Washington
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.29:38388#🇻🇳 VN None
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.18:9040#🇵🇱 PL Warsaw
@@ -392,3 +392,4 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8139?pluginobfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@31.130.148.161:2222#🇷🇺 RU Moscow
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🇲🇰 MK Skopje
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#🇲🇩 MD Chisinau
