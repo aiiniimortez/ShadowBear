@@ -138,7 +138,6 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmanJiQnAydmdwQjVrTFJGMXI3M09y@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@92.63.193.252:20#🇷🇺 RU None
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#🇸🇬 SG Singapore
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.22:989#🇵🇷 PR San Juan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQY1NGMGtFcFdadmhuV2FUVkpkNjdY@147.45.69.81:52466#🇳🇱 NL Amsterdam
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.154.136.47:5498#🇺🇸 US Washington
@@ -171,6 +170,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBjZTc1NTA4ODEwZjFm@157.173.123.197:20483#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ@157.180.127.73:23819#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VkxRenB0a3JvOW14clBCX194OUdubkFaZ2VSNUUtOQ@185.215.186.65:8388#🇪🇪 EE None
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@185.246.64.122:20#🇷🇺 RU None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdzNselFiakhHOUlCNTMzY1Z2Unlw@194.87.45.189:443#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@209.200.246.174:8139?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇨🇦 CA Toronto
