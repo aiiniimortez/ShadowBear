@@ -288,7 +288,6 @@ ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.18:9014#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@5.188.181.201:9041#🇪🇸 ES Madrid
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#🇰🇷 KR Gwanak-gu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUXBqM3JHSG44NVpIWG43Q2R0S1BO@87.251.79.34:20684#🇺🇸 US None
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaYmVsem5BNHBiTFZHVTNhbGRpdHNu@87.251.79.34:20684#🇺🇸 US None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.22:989#🇵🇷 PR San Juan
 ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@45.89.52.66:9029#🇹🇷 TR Izmir
@@ -351,6 +350,7 @@ ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@185.246.64.122:20#🇷🇺 R
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbnRDRjFMakF0Z3hjaVZPYzd3S25T@77.83.246.74:443#🇵🇱 PL Mazovia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRUZaYm1HWlB2OXc0dlBhWWhxWkRT@45.150.32.13:14628#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSEhpa2VGeEdYYXZSNmMwOFhjeklS@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1080#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdzNselFiakhHOUlCNTMzY1Z2Unlw@194.87.45.189:443#🇪🇸 ES Madrid
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGMzWg@209.200.246.174:8139?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇨🇦 CA Toronto
