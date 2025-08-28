@@ -38,10 +38,8 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#🇬🇧 GB Popl
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🇬🇧 GB London
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#🇬🇧 GB Abergavenny
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🇬🇧 GB Abergavenny
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRlJwNEJReWVWeExBNVJhQnhKOWN6d1R0WnFhWFZ1VlRtZ1Z0VFJzbWpMdnBCQk5TVEd0eXlnN3VOY2dwcFZScW5oamRKbVA4YktNM3pzSzg4ck5oTWdYTkpvYXV4a0o@185.5.38.111:55988#🇬🇧 GB None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇬🇧 GB Nottingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🇬🇧 GB Sandhurst
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbENzQkdwc2VqSGRWQ01F@85.210.120.237:443#🇬🇧 GB Sandhurst
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🇬🇧 GB Maidenhead
