@@ -11,3 +11,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#🇸🇬 SG None
 ss://YWVzLTI1Ni1nY206dWE5Nmo0NDM4dg@157.245.156.14:53144#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#🇸🇬 SG None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#🇸🇬 SG Singapore
