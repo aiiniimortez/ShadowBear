@@ -187,6 +187,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.228.67.32:989#🇺🇾 UY Montevi
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#🇻🇳 VN None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGhtWQ@91.108.248.10:8139?pluginobfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@31.130.148.161:2222#🇷🇺 RU Moscow
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeWd1YUl0ekJmTjlZanY0MldnSVdi@45.144.54.33:34803#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.154:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.22:60606#🇭🇰 HK None
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.76:15098#🇰🇷 KR Gwanak-gu
