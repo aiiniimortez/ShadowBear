@@ -4,7 +4,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989#🇹🇷 TR Ista
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🇹🇷 TR Istanbul
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@45.89.52.66:9025#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#🇹🇷 TR Istanbul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZGp0dWpyeXVreXRrdHVpeXVrdWk@tr-1-sst.medicaldream.ir:8444#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI@77.83.245.190:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOYlFOcW5nYUl3Uzc@83.217.9.101:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g@77.83.245.192:443#🇹🇷 TR Istanbul
