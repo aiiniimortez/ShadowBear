@@ -4,8 +4,10 @@
 #support-url: https://t.me/Chat_Support_Configs
 #profile-web-page-url: https://t.me/iammirmir23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@45.89.52.66:9042#🇹🇷 TR Izmir
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042#🇵🇱 PL Warsaw
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 IN Mumbai
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989#🇵🇹 PT Lisbon
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.10:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.18:9038#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.148.135.31:989#🇨🇾 CY Nicosia
@@ -14,6 +16,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#🇦🇹 AT Vienna
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#🇨🇴 CO Bogotá
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#🇵🇱 PL Warsaw
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#🇲🇽 MX Mexico City
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.18:9010#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#🇸🇬 SG None
@@ -98,6 +101,7 @@ ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#🇵🇱 PL Warsaw
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#🇸🇮 SI Ljubljana
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#🇬🇷 GR Thessaloniki
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@137.175.97.159:8388#🇺🇸 US None
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ@217.30.10.18:9019#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4@195.123.213.12:31348#🇱🇻 LV Riga
@@ -148,7 +152,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#🇺🇸 US San J
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🇬🇷 GR Thessaloniki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#🇮🇱 IL Tel Aviv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#🇺🇸 US None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#🇲🇹 MT Valletta
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.126.239.250:989#🇷🇺 RU Moscow
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@176.103.53.105:989#🇺🇦 UA Kyiv
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇳🇱 NL Haarlem
