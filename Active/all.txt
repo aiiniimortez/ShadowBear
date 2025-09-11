@@ -171,6 +171,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.138:8080#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🇱🇹 LT None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#🇲🇽 MX Mexico City
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080#🇳🇱 NL None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.186.77.220:989#🇷🇸 RS Belgrade
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#🇩🇪 DE Frankfurt am Main
@@ -224,6 +225,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#🇰🇷 KR Seoul
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.47.131:443#🇺🇸 US Seattle
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🇺🇸 US None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#🇳🇱 NL None
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱 NL None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🇲🇽 MX Mexico City
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#🇭🇰 HK None
@@ -394,6 +396,7 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#🇫🇷 FR None
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#🇵🇱 PL Warsaw
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 US New York
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.237.185.160:989#🇱🇹 LT Vilnius
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388#🇸🇬 SG None
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#🇺🇸 US New York
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#🇹🇼 TW Taipei
@@ -422,7 +425,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#🇫🇷 FR Pari
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl13.saint.ydns.eu:8080#🇱🇹 LT None
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Gwanak-gu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🇬🇧 GB Sandhurst
 ss://YWVzLTI1Ni1nY206MTc2Yzk4M2YtNmE3Zi00YTk2LTk4NjUtODkxYTZjNDhlYzg2@a001.standard-nodes-chickenfarms.com:50000#🇭🇰 HK Hong Kong
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl12.saint.ydns.eu:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🇺🇸 US Miami
@@ -459,7 +461,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl04.saint.ydns.eu:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@desrv.vmagnum.win:57456#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#🇫🇷 FR Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@fr.vmagnum.win:57456#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#🇰🇿 KZ Almaty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@kz.vmagnum.win:57456#🇰🇿 KZ Almaty
@@ -468,7 +469,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@pl.vmagnum.win:57456#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@2.ilgm.saint.ydns.eu:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#🇵🇱 PL Warsaw
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#🇵🇱 PL Warsaw
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 IN Mumbai
@@ -521,6 +521,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🇬🇷 GR Thessaloniki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#🇪🇨 EC Quito
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#🇫🇮 FI Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 GB Birmingham
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#🇫🇷 FR Paris
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#🇻🇳 VN None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#🇦🇹 AT Vienna
@@ -541,14 +542,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZHN3eGV0VmM2QWhJcHMxOHJ0WWJt@95.163.176.37:8506#🇦🇹 AT Vienna
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.162.146.85:8316#🇭🇰 HK None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@promo6v.bystrivpn.ru:443#🇦🇹 AT Vienna
 ss://YWVzLTI1Ni1nY206U3hDeXJQc29mUg@38.102.7.181:59719#🇺🇸 US Los Angeles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmVZeThTa1ZpWHVTSFZzOUdGZVNl@77.110.110.117:443#🇦🇹 AT Vienna
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUnRmVjZydUJwRFJ4QVV5aWpmdHZE@77.105.166.12:8594#🇫🇷 FR Paris
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.026.node-for-bigairport.win:15099#🇭🇰 HK None
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHB4R3F4aUVUOWNxRUd5OTlVWVlF@77.105.166.12:8594#🇫🇷 FR Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.162.146.85:8313#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🇺🇸 US Santa Clara
@@ -561,9 +560,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOTRGb00xeHBXM0NKeml4TUU4Q2pKRUZCaUNGaEtTV2Z
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.55.202.54:443#🇦🇺 AU Sydney
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU@de-1.stunnel.cc:8444#🇩🇪 DE Frankfurt am Main
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#🇰🇷 KR Gwangmyeong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxMjZaTHhESTBWSGlBUjJ1S1V2RE96@197.140.142.74:8443#🇩🇿 DZ Boumerdas
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#🇨🇦 CA Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1JSZTd0VE5kVDU5Z2lma01xb2Yw@89.185.84.185:443#🇬🇧 GB None
-ss://YWVzLTI1Ni1nY206OUJ2QWNMNCtuWUpKbTZlNi9xVzg3amd3eGpiQkdSWjIyQkswNWYzcU43MD0@154.18.187.154:37826#🇸🇬 SG Jurong Town
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprTkFzc3FmTlI4aGh2bTlyU1NKdmhx@151.236.11.221:8443#🇦🇹 AT Langenzersdorf
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.203.13.163:443#🇺🇸 US Ashburn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyT1FyV2h6N290eE9yUEJDNnVIZDNG@83.147.216.70:64519#🇫🇮 FI Helsinki
@@ -587,7 +586,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYWw5RGVLblNGaFVMZDVOYnBrYWUw@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M1RkenNIb3NQUWpHQWFMbW85bEdR@83.147.216.70:64519#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#🇱🇹 LT None
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇳🇱 NL Haarlem
-ss://YWVzLTI1Ni1nY206cFJBcVo0YWZha1F5aVA4Zg@167.17.179.116:8388#🇯🇵 JP Tokyo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV1J4WUtyMWZJa1FRalJnSklXZUNV@152.42.245.170:38450#🇸🇬 SG Singapore
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozek1UN1hRamJDTEVQYm5OTFNKOWo3@94.159.96.245:11902#🇩🇪 DE Frankfurt am Main
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHcEI0SjdBZnlsOENtOWFOMEg5UVJG@81.19.141.45:443#🇩🇪 DE Frankfurt am Main
@@ -617,6 +615,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3J5QVZuSzlWYkJ3Nm9IeXNsZnJY@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIQ2t6NFExdDJmRWZBT1pKb293NWU2@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 US Santa Clara
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl03.saint.ydns.eu:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g@77.83.245.192:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl02.saint.ydns.eu:8080#🇱🇹 LT None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0@94.131.22.134:40565#🇺🇸 US New York
@@ -624,8 +623,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTlmOGEzNy1mZTRmLTQ2NTQtYmE2MS1mYjhmYzM2NGF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@promo8v.bystrivpn.ru:443#🇨🇦 CA Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCWTR6U2dmTGZkTEZ1R3Q1Tk1mc0lX@178.208.78.170:23822#🇳🇱 NL Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@213.111.182.241:808#🇫🇮 FI Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZVB6NmplcFUyUEdMbEtC@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY#🇷🇺 RU Moscow
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 US Santa Clara
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Um9vOVBLNkJGWm1meG1J@c1.nastuh.link:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443#🇹🇷 TR Istanbul
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.160:7307#🇺🇸 US Washington
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM@83.217.9.64:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSnFlU0ZiS0h6STFObjVBWHl6aHE0@104.192.227.162:443#🇺🇸 US Chicago
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXY0xnZlh2NjRtd3NzTVdrTXFKYXdj@62.210.88.22:443#🇫🇷 FR Paris
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3FlaDVkbXRZVnQ4c1JuWEoyakpp@194.87.45.189:443#🇪🇸 ES Madrid
