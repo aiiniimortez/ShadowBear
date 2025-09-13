@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOYlFOcW5nYUl3Uzc@83.217.9.101:443#🇹🇷 T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS2d3cW1uWXdEc1g@77.83.245.192:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443#🇹🇷 TR Istanbul
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM@83.217.9.64:443#🇹🇷 TR Istanbul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVR2dDaTFYNElHZHpHWjdSOEdFZzVz@62.133.63.21:65262#🇹🇷 TR Istanbul

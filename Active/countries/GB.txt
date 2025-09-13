@@ -42,6 +42,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIQ2t6NFExdDJmRWZBT1pKb293NWU2@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZVB6NmplcFUyUEdMbEtC@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#🇬🇧 GB None
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Um9vOVBLNkJGWm1meG1J@c1.nastuh.link:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUR0VEtyNFVKNkFrNFpJ@c1.nastuh.link:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#🇬🇧 GB London
