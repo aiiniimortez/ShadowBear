@@ -7,4 +7,5 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.89:11389#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.12:4857#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098#🇰🇷 KR Gwanak-gu
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Gwanak-gu
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#🇰🇷 KR Seoul
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.76:15098#🇰🇷 KR Gwanak-gu
