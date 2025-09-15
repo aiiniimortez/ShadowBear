@@ -5,3 +5,4 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.61:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.182.191:8388#🇭🇰 HK None
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.154:8388#🇭🇰 HK None
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.13.22:60606#🇭🇰 HK None
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.010.node-for-bigairport.win:11689#🇭🇰 HK None
