@@ -20,3 +20,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcVlyVG5abUZKZXBxTnBmYkdreXhw@147.45.114.160
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.227.53:989#🇳🇱 NL Amsterdam
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#🇳🇱 NL Haarlem
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCWTR6U2dmTGZkTEZ1R3Q1Tk1mc0lX@178.208.78.170:23822#🇳🇱 NL Amsterdam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodmNlOUlKeDNBVmhNZ3N0WXdCRDRp@185.26.236.196:8443#🇳🇱 NL Amsterdam
