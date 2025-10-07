@@ -25,3 +25,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQ0wyeUFQMWlQT3ZBRWU4ZFdlMmgx@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@213.111.182.241:808#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#🇫🇮 FI Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cDllaTNQOFdXNm51Y05YSUk0VlNn@65.109.217.125:1080#🇫🇮 FI Helsinki
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#🇫🇮 FI Helsinki

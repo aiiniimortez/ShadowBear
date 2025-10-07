@@ -5,7 +5,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#🇬🇧 GB Manchester
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno@media.mothyleela.cfd:40521#🇬🇧 GB None
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.198:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#🇬🇧 GB London
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.194:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc@media.mothyleela.cfd:40521#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOTRGb00xeHBXM0NKeml4TUU4Q2pKRUZCaUNGaEtTV2ZMelQ2RTkyUGpoN3k3M1lmTnJ3UGp1NDZHZDRIRTg1ZVhTak5pVHRpQVljNldUc2t1aHhaWkZlYmQ0cmNYZnA@media.mothyleela.cfd:40521#🇬🇧 GB None
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#🇬🇧 GB London
@@ -44,7 +43,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.clouda
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFN1dUNTAwTjFTUmpIbElpM05WTXQx@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇬🇧 GB London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#🇬🇧 GB London
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VERkd1l6eHExVEhBVFNKUXhXS1hp@89.185.84.185:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VXdVQ2xSNXBVbE5yTTRkbHBWMjV0@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowaUE4aGN0aVJUMHNrWDBMR3AxRzVZ@78.129.140.11:443#🇬🇧 GB None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#🇬🇧 GB None
