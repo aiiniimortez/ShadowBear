@@ -12,7 +12,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.195:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.197:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@uk-dc1.yangon.club:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#🇬🇧 GB London
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🇬🇧 GB London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🇬🇧 GB London
