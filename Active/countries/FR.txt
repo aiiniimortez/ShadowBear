@@ -23,4 +23,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.166:989#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@1.ilgm.saint.ydns.eu:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#🇫🇷 FR None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGSWFRVXpRYmVIaHJMclpFNXV2@62.210.88.22:443#🇫🇷 FR Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmTjl3eG85blBINGR3WVhQY2hJanBT@62.210.88.22:443#🇫🇷 FR Paris
