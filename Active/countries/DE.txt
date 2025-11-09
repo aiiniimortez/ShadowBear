@@ -1,6 +1,4 @@
 ﻿ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.136:989#🇩🇪 DE Ladbergen
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.136:989#🇩🇪 DE Frechen
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de15.giamping.com:8080#🇩🇪 DE Nuremberg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#🇩🇪 DE None
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#🇩🇪 DE None
-ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ@m1.cartio.sbs:2096#🇩🇪 DE Falkenstein
